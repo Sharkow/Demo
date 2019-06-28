@@ -1,6 +1,6 @@
 # Demo
 Hello! These are some parts of my code from different projects.<br>
-Most of them are from commercial software, so I merely share little pieces.<br>
+Some of them are from commercial software, so I merely share little pieces.<br>
 #### DataGenerator [C#, 2012]
 Just several parts from my graduation project.
 This application allowes to specify flexible rules to generate random data with certain parameters.<br>
