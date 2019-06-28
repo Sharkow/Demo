@@ -12,7 +12,7 @@ DPPanel.cs - a base class for UI elements with data generators. Designed in a ve
 MainForm.cs - as you would think, the code for the main application window.<br>
 #### ImageSphere.as [ActionScript 3, 2011]
 Builds a live 3D-sphere of arbitrary images (passed as arguments).<br>
-ImageSphere_render.png shows how result looks like.<br>
+ImageSphere_render.png shows the result.<br>
 It was done in browser using video card for rendering.<br>
 The code makes use of the spherical coordinate system to position images correctly.<br>
 #### Main.java [Java, 2011]
