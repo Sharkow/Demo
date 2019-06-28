@@ -8,8 +8,7 @@ Along with simpler generators (like normally distributed data), there is a speci
 the user can write his own script in C#, that would generate data by custom rules.<br>
 DynamicCodeExecutorSH.cs - compiles such a script at runtime.<br>
 StringScriptGenerator.cs - whole routines to use a custom script.<br>
-DPPanel.cs - a base class for UI elements with data generators.<br>
-Designed in a very generic way to enable extending the application with arbitrary generators.<br>
+DPPanel.cs - a base class for UI elements with data generators. Designed in a very generic way to enable extending the application with arbitrary generators.<br>
 MainForm.cs - as you would think, the code of the main application window.<br>
 #### ImageSphere.as [ActionScript 3, 2011]
 Builds a live 3D-sphere of arbitrary images (passed as arguments).<br>
