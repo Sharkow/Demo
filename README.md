@@ -1,10 +1,13 @@
 # Demo
 Hello! These are some parts of my code from different projects.<br>
 Most of them are from commercial software, so I merely share little pieces.<br>
-#### ExcelHandler.cs [C#, 2013]
-A part of a program for automated sorting of Excel sheets.<br>
-The user selects two areas on the sheet with two related datasets.<br>
-The program sorts the second dataset to match the first in a best way, using specified columns.<br>
+#### ImageSphere.as [ActionScript 3, 2011]
+Builds a live 3D-sphere of arbitrary images (passed as arguments).
+ImageSphere_render.png shows how result looks like.
+It was done in browser using video card for rendering.
+The code makes use of the spherical coordinate system to position images correctly.
+#### Main.java [Java, 2011]
+This solves a mathematical problem from HeadHunter challenge.
 #### SHDataHandler.h/m, SHMainMenuViewController.h/m [Objective-C, 2014-2017]
 Several parts from my iOS app, LR-West (can be found on the AppStore).<br>
 SHDataHandler - routines for getting and storing data into DB, and some related stuff.<br>
