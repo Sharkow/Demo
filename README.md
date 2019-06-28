@@ -2,7 +2,7 @@
 Hello! These are some parts of my code from different projects.<br>
 Some of them are from commercial software, so I merely share little pieces.<br>
 #### DataGenerator [C#, 2012]
-Just several parts from my graduation project.
+Just several parts from my graduation project.<br>
 This application allowes to specify flexible rules to generate random data with certain parameters.<br>
 Along with simpler generators (like normally distributed data), there is a special "script" generator -<br>
 the user can write his own script in C#, that would generate data by custom rules.<br>
