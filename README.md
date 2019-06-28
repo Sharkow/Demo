@@ -1,5 +1,5 @@
 # Demo
-Hello! These are some parts of my code from different projects.<br>
+Hello! These are some parts from my code for different projects.<br>
 Some of them are from commercial software, so I merely share little pieces.<br>
 #### DataGenerator [C#, 2012]
 Just several parts from my graduation project.<br>
@@ -9,7 +9,7 @@ the user can write his own script in C#, that would generate data by custom rule
 DynamicCodeExecutorSH.cs - compiles such a script at runtime.<br>
 StringScriptGenerator.cs - whole routines to use a custom script.<br>
 DPPanel.cs - a base class for UI elements with data generators. Designed in a very generic way to enable extending the application with arbitrary generators.<br>
-MainForm.cs - as you would think, the code of the main application window.<br>
+MainForm.cs - as you would think, the code for the main application window.<br>
 #### ImageSphere.as [ActionScript 3, 2011]
 Builds a live 3D-sphere of arbitrary images (passed as arguments).<br>
 ImageSphere_render.png shows how result looks like.<br>
