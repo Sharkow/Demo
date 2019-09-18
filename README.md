@@ -1,5 +1,5 @@
 # Demo
-Hello! These are some parts from my code for different projects.<br>
+Hello! These are some parts from my different projects.<br>
 Some of them are from commercial software, so I merely share little pieces.<br>
 #### DataGenerator [C#, 2012]
 Just several parts from my graduation project.<br>
