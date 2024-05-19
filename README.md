@@ -23,9 +23,6 @@ SHDataHandler - routines for getting and storing data into DB, and some related 
 SHMainMenuViewController - view controller for the main app screen.<br>
 #### ai_split_message.h/cc [C++, 2018]
 A module for splitting long messages into smaller ones.<br>
-It is part of a large project for airline industry.<br>
-Messages contain information about people who ordered flight tickets, and are composed by certain standards.<br>
-Splitting also follows some specific business logic.<br>
 #### costFunction.m [Matlab, 2018]
 A tiny piece from my homework in Matlab for Andrew Ng's ML course.<br>
 #### main.c [C, 2016]
